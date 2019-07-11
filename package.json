@@ -2,7 +2,7 @@
   "name": "react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/karenminas1/reacttestk/",
+  "homepage": "https://karenminas1.github.io/reacttestkm/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
